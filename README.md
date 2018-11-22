@@ -3,10 +3,13 @@ The repository contains methods and applications of spatial-statistics, like Qua
 More specifically, four bandwidth selection methods of KDE are included：
 
 (1) two fixed KDE bandwidth selection methods :rule of thumb & corss-validation based fixed KDE
+
 (2) two adaptive KDE bandwidth selection methods: cross-validation based adaptive KDE & QFA-KDE
 
 Further more, two kinds of datasets are included for experiments:
+
 (1) POI dataset: regional clustered data/Hubei enterprise registration data POI (Li et al.,2018)
+
 (2) GPS trajectory dataset: linear clustered data
 
 
