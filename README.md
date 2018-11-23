@@ -2,7 +2,7 @@
 The repository contains methods of spatial-statistics, so far especially Kernel Density Estimation(KDE) methods
 ***
 More specifically, four bandwidth selection methods of KDE are included:  
-* two fixed KDE bandwidth selection methods :***rule of thumb*** & ***corss-validation based fixed KDE***  
+* two fixed KDE bandwidth selection methods : ***rule of thumb*** & ***corss-validation based fixed KDE***  
 * two adaptive KDE bandwidth selection methods: ***cross-validation based adaptive KDE*** & ***QFA-KDE***  
 ***
 Further more, two kinds of datasets are included for experiments:  
