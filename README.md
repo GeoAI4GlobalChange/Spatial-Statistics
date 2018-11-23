@@ -8,7 +8,9 @@ More specifically, four bandwidth selection methods of KDE are included:
 Further more, two kinds of datasets are included for experiments:  
 * POI dataset: regional clustered data/Hubei enterprise registration data POI (Li et al.,2018)  
 * GPS trajectory dataset: linear clustered data
-
+***
+A demonstration of the spatial segmentation result computed by QFA-KDE:  
+![spatial segmentation result](https://github.com/FaLi-KunxiaojiaYuan/Spatial-Statistics/raw/master/Figures/Figure_1.png)  
 
 ***References:***
 Li, F., Gui, Z., Wu, H., Gong, J., Wang, Y., Tian, S., & Zhang, J. (2018). Big enterprise registration data imputation: Supporting spatiotemporal analysis of industries in China. Computers, Environment and Urban Systems, 70, 9-23.
