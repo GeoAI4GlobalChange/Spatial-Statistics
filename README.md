@@ -10,7 +10,7 @@ Further more, two kinds of datasets are included for experiments:
 * GPS trajectory dataset: linear clustered data
 ***
 A demonstration of the spatial segmentation result computed by QFA-KDE:  
-![spatial segmentation result](https://github.com/FaLi-KunxiaojiaYuan/Spatial-Statistics/raw/master/Figures/Figure_1.png)  
+![spatial segmentation result](https://github.com/FaLi-KunxiaojiaYuan/Spatial-Statistics/raw/master/Figures/Figure_7.tif)  
 
 ***References:***
 Li, F., Gui, Z., Wu, H., Gong, J., Wang, Y., Tian, S., & Zhang, J. (2018). Big enterprise registration data imputation: Supporting spatiotemporal analysis of industries in China. Computers, Environment and Urban Systems, 70, 9-23.
