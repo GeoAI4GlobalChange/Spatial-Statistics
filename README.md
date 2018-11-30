@@ -9,7 +9,7 @@ Further more, two kinds of datasets are included for experiments:
 * POI dataset: regional clustered data/Hubei enterprise registration data POI (Li et al.,2018)  
 * GPS trajectory dataset: linear clustered data
 ***
-Please refer to the upcoming paper of Yuan on the journal of "International Journal of Geographical Information Science" (IJGIS) <font size=36>**for introduction and more details** </font>of the KDE bandwodth calculation methods 
+Please refer to the upcoming paper of Yuan on the journal of "International Journal of Geographical Information Science" (IJGIS) **for introduction and more details** of the KDE bandwodth calculation methods 
 ***
 A demonstration of the spatial segmentation result computed by QFA-KDE:  
 ![spatial segmentation result](https://github.com/FaLi-KunxiaojiaYuan/Spatial-Statistics/raw/master/Figures/Figure_7.png) 
