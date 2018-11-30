@@ -14,7 +14,7 @@ Please refer to the upcoming paper of Yuan on the journal of "International Jour
 A demonstration of the spatial segmentation result computed by QFA-KDE:  
 ![spatial segmentation result](https://github.com/FaLi-KunxiaojiaYuan/Spatial-Statistics/raw/master/Figures/Figure_7.png) 
 ***
-The comparison results of the estimated density distribution of GPS points using four different KDE bandwidth selection methods:
+The comparison results of the estimated density distribution of GPS points using four different KDE bandwidth selection methods:  
 ![ comparison results using four different KDE bandwidth selection methods](https://github.com/FaLi-KunxiaojiaYuan/Spatial-Statistics/raw/master/Figures/Figure_6.png)
 
 ***References:***
