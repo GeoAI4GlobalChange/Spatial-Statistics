@@ -20,5 +20,5 @@ The comparison results of the estimated density distribution of GPS points using
 ![ comparison results using four different KDE bandwidth selection methods](https://github.com/FaLi-KunxiaojiaYuan/Spatial-Statistics/raw/master/Figures/Figure_6.png)  
 ***note:*** the bandwidths are calculated using the contained python scripts, and the heat-maps are generated using QGIS software  
 ***References:***
-Li, F., Gui, Z., Wu, H., Gong, J., Wang, Y., Tian, S., & Zhang, J. (2018). Big enterprise registration data imputation: Supporting spatiotemporal analysis of industries in China. Computers, Environment and Urban Systems, 70, 9-23.
+Li, F., Gui, Z., Wu, H., Gong, J., Wang, Y., Tian, S., & Zhang, J. (2018). Big enterprise registration data imputation: Supporting spatiotemporal analysis of industries in China. Computers, Environment and Urban Systems, 70, 9-23.  
 Yuan K, Cheng X, Gui Z, et al. A quad-tree-based fast and adaptive Kernel Density Estimation algorithm for heat-map generation[J]. International Journal of Geographical Information Science, 2019, 33(12): 2455-2476.
